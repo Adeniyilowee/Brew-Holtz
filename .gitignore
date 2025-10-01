@@ -1,0 +1,7 @@
+**/.DS_STORE
+
+**/.env
+**/.secrets.gitignore
+
+bin
+.devbox
